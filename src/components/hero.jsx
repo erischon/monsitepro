@@ -19,7 +19,9 @@ export default function Hero() {
               corporis exercitationem
             </p>
 
-            <Link href="">link</Link>
+            <Link href="" className="">
+              link
+            </Link>
           </div>
         </div>
 
